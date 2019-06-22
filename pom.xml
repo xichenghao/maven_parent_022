@@ -278,4 +278,21 @@
 		</plugins>
 	
 	</build>
+	<dependencies>
+		<dependency>
+			<groupId>cn.itcast</groupId>
+			<artifactId>maven_web</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>cn.itcast</groupId>
+			<artifactId>maven_domain</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>cn.itcast</groupId>
+			<artifactId>maven_service</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>

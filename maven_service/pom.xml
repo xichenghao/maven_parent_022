@@ -275,4 +275,11 @@
 		</plugins>
 	
 	</build>
+	<dependencies>
+		<dependency>
+			<groupId>cn.itcast</groupId>
+			<artifactId>maven_dao</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
